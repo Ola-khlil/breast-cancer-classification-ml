@@ -188,7 +188,7 @@ Repository Structure
 
 breast-cancer-classification-ml/
 │
-├── IS316_project.ipynb
+├── Breast Cancer Classification Using Machine Learning.ipynb
 ├── Breast_Cancer_Classification_Machine_Learning.pdf
 └── README.md
 
